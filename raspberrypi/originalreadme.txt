@@ -49,4 +49,3 @@ Set up a complete bare-metal enviornment so that C code can be compiled, linked 
 # Goal 
 Move from software setup to hardware-level C control - GPIO, timers, UART, sensors, and full system integration 
 
-
