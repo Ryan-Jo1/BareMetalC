@@ -14,4 +14,4 @@ firmware.bin: firmware.elf
 	$(OBJCOPY) -O binary firmware.elf firmware.bin
 
 clean:
-	rm -f firmware.elf firmware.bin
+	rm -f firmware.elf firmware.binq
