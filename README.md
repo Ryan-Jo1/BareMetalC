@@ -114,3 +114,9 @@ The Arduino R4 Minima uses a Renesas RA4M1 (ARM Cortex-M4F), making it ideal for
 ## 📬 Contact
 Open to discussing this project in interviews or messages.
 
+---
+
+## Open notes 
+https://www.notion.so/Makefile-2b3f62d3c90e8001a23be23c4fab6d96?source=copy_link
+
+
